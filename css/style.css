@@ -20,17 +20,17 @@ body,
 }
 
 .top-nav-collapse {
-    background-color: #1C2331;
+    background-color: #1C84FC;
 }
 
 footer.page-footer {
-    background-color: #1C2331;
+    background-color: #1C84FC;
     margin-top: 0;
 }
 
 @media only screen and (max-width: 767px) {
     .navbar {
-        background-color: #1C2331;
+        background-color: #1C84FC;
     }
     .display-3 {
         font-size: 2rem;
@@ -84,4 +84,56 @@ footer.page-footer {
 /* Font */
 body{
     font-family: 'Montserrat', sans-serif;
+    /*background-color: #FAFAFA;*/
 }
+
+body p {
+    color: #BDC3C7;
+}
+
+body h2{
+    color: #34495e;
+}
+
+footer a:hover{
+    color: #1C84FC;
+}
+
+.test{
+    color: #E6F1FC; /*maybe footer*/
+    color: #70B2FC; /*Text on colored background*/
+    color: #1C84FC; /*Colored Background*/
+    color: #7f8c8d; /*Headings*/
+    color: #bdc3c7; /*Text*/
+    color: #FAFAFA; /*Background*/
+}
+
+
+
+/*.btn-primary {
+    background-color: #4285F4 !important;
+    color: #fff !important; }
+    .btn-primary:hover {
+      background-color: #5a95f5; }
+    .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+      background-color: #0d5fe6; }
+    .btn-primary.dropdown-toggle {
+      background-color: #4285F4 !important; }
+      .btn-primary.dropdown-toggle:hover, .btn-primary.dropdown-toggle:focus {
+        background-color: #5a95f5 !important; }
+    .btn-primary:not([disabled]):not(.disabled):active, .btn-primary:not([disabled]):not(.disabled).active,
+    .show > .btn-primary.dropdown-toggle {
+      background-color: #0d5fe6 !important; }
+  
+  .btn-outline-primary {
+    border: 2px solid #1C84FC;
+    color: #1C84FC !important;
+    background-color: transparent; }
+    .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary:active:focus, .btn-outline-primary.active {
+      background-color: transparent;
+      color: #1C84FC;
+      border-color: #1C84FC; }
+    .btn-outline-primary:not([disabled]):not(.disabled):active, .btn-outline-primary:not([disabled]):not(.disabled).active,
+    .show > .btn-outline-primary.dropdown-toggle {
+      background-color: transparent !important;
+      border-color: #1C84FC !important; }*/

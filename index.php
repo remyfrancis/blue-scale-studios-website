@@ -61,7 +61,7 @@
                     <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#">About</a>
                         <a class="dropdown-item" href="#">Team</a>
-                        <a class="dropdown-item" href="#">Mission</a>
+                        <a class="dropdown-item" href="mission.php">Mission</a>
                     </div>
                 </li>
             </ul>

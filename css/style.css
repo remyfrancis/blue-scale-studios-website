@@ -10,8 +10,29 @@ body,
 /* Navigation*/
 
 .navbar {
-    background-color: transparent;
+    background-color: #1C84FC;
+    font-weight: 600;
 }
+
+.dropdown-menu{
+    background-color: #1C84FC;
+    border: #fff;
+}
+
+.navbar .dropdown-menu a{
+    color: #fff !important;
+    /*text-shadow: 0 0 black;*/
+    font-weight: 600;
+}
+
+.navbar ul button{
+    font-weight: 600;
+}
+
+.section3{
+    background-color: #E6F1FC;
+}
+
 
 .scrolling-navbar {
     -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
